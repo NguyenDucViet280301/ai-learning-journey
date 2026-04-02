@@ -1,0 +1,5 @@
+langchain
+langchain-ollama
+duckduckgo-search
+requests
+beautifulsoup4
