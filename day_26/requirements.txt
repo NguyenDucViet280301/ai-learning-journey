@@ -1,0 +1,11 @@
+streamlit
+langchain-ollama
+langchain-community
+langchain-core
+beautifulsoup4
+requests
+pydantic
+duckduckgo-search
+pytest
+pytest-mock
+python-dotenv

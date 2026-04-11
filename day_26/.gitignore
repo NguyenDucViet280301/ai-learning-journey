@@ -1,0 +1,24 @@
+# Python Caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing Caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment & Dependencies
+.env
+venv/
+env/
+.venv/
+
+# Project Outputs
+outputs/
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+.DS_Store
