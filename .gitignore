@@ -1,0 +1,32 @@
+# Lờ đi toàn bộ các thư mục bài học cũ
+day_1/
+day_2/
+day_3/
+day_4/
+day_5/
+day_7/
+day_9/
+day_10/
+day_11/
+day_12/
+day_14/
+day_16/
+day_17/
+day_18/
+day_19/
+day_20/
+day_21/
+day_22/
+day_23/
+
+# Giữ lại các tệp cấu hình quan trọng
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Local databases and chat sessions
+**/faiss_chat_db/
+**/faiss_rag_db/
+**/chat_sessions/
+
